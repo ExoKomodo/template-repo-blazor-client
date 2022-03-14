@@ -1,6 +1,9 @@
 # Template Blazor Client
-
-TODO: Description
+To use:
+- create new repo from template
+- add `PUBLISH_TOKEN` repository secret which is a Personal Access Token for the `gh-pages` GitHub Action
+- edit `CNAME` in repo’s `CNAME` file and `ci.yml`
+- add `CNAME` record in the domain provider
 
 ## Important Links
 - [Github](https://github.com/ExoKomodo/template-repo-blazor-client)
